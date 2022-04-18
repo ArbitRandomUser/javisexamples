@@ -1,5 +1,6 @@
 Some examples of Javis.jl
-note that you will have to checkout the moresvg\_partialdraw branch from my fork of
+
+Note that you will have to checkout the moresvg\_partialdraw branch from my fork of
 Javis for these scripts to work.
 
 dvdanim.jl imports dvdlogo.svg and animates it moving around like the dvd screensaver (touching all corners 
